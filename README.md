@@ -29,8 +29,8 @@ This script is designed to automate the cleanup of subscriptions on Tableau Serv
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/tableau-subscription-cleanup.git
-   cd tableau-subscription-cleanup
+   git clone https://github.com/swapnilyavalkar/Tableau-Delete-Subscriptions.git
+   cd Tableau-Delete-Subscriptions
    ```
 
 2. **Install Dependencies**:
@@ -47,7 +47,7 @@ This script is designed to automate the cleanup of subscriptions on Tableau Serv
 Run the script to perform the cleanup:
 
 ```bash
-python subscription_cleanup.py
+python main.py
 ```
 
 ### Example Output
@@ -61,10 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/tableau-subscription-cleanup/issues) or open a pull request.
-
-## 📬 Contact
-
-For any queries or support, please contact [your.email@example.com](mailto:your.email@example.com).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/swapnilyavalkar/Tableau-Delete-Subscriptions/issues) or open a pull request.
 
 ---
